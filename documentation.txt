@@ -1,0 +1,18 @@
+-----------------DEMARRAGE BRANCHE1----------------------
+-j'ai créé un dossier eval-docker
+-j'ai ensuite créé un dossier Docker dans lequel j'ai créé 3 sous dossiers pour les dockerfile (php, nginx, jenkins)
+-j'ai cloné la branche1 du git en saisissant la commande
+	-git clone https://github.com/Akasam/samplephpwebsite
+
+-j'ai créé un docker compose à la racine du dossier eval-docker
+-j'ai créé un fichier de configuration de mon application pour la configuration du server
+
+-----------------------LANCEMENT--------------------------------
+
+-j'ai exécuté la commande docker-compose up
+-je suis allé ensuite sur le navigateur pour configurer jenkins en tapant localhost:3200
+	-informations du compte créé
+		-Nom utilisateur : jenkins
+		-Mot de passe: jenkins
+		-Nom Complet: ENIGMA
+		Adresse courriel: frankfabi1@yahoo.fr
